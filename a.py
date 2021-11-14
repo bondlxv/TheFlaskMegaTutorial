@@ -3,6 +3,7 @@ for x in range(10):
     for y in range(2):
         print("---" + str(y) , end="@@@")
     print()
+    print()
 """
 git config --global user.email "my@email.com"
 git config --global user.name "My Name"
